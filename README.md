@@ -1,5 +1,5 @@
 # PanicAttactApp
-PanicAttackApp  Overview The PanicAttackApp is an iOS application developed in SwiftUI that provides support for individuals experiencing panic attacks. It offers a simple and user-friendly interface to help users manage and communicate their distress during a panic attack.
+The PanicAttackApp is an iOS application developed in SwiftUI that provides support for individuals experiencing panic attacks. It offers a simple and user-friendly interface to help users manage and communicate their distress during a panic attack.
 
 Features
 * Panic Attack Mode: With just one press of a button, the app enters Panic Attack Mode, displaying a message that reads, "Excuse me, I am having a panic attack."
